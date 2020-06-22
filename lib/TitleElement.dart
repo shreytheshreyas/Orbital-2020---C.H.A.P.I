@@ -10,7 +10,7 @@ class TitleElement extends StatelessWidget{
   final String  elementTitle;
   final Color elementColor;
   final double leftPadding;
-  final double rightPadding;
+  final double rightPadding;    
 
   TitleElement(this.elementTitle,this.elementColor,this.leftPadding,this.rightPadding);
 
