@@ -85,7 +85,7 @@ My partner and I aim to develop an application/website that will help people fac
 |July 20th-July 26st| Finish up the user testing for the application|
 |July 27th (Milestone 3)|Evaluation of Project|
 
-# **Project Log**
+# **Project Log: Milestone 1**
 <!-- Put the project Log for the month of may -->
 
 |Serial No. |Task   |Date   |Orbitee 1  |Orbitee 2  |Remarks    |
@@ -97,6 +97,22 @@ My partner and I aim to develop an application/website that will help people fac
 |5.|Learing Dart and Flutter| May 18th - May 24th| 14hrs | 14hrs| Understandding how the framework exactly works and how we can use it to build our application|
 |6.| Development of README.md file|25th May - 27th May| 6hrs | 6hrs | Development of the README.md file| 
 
+# **Project Log: Milestone 2**
+<!-- Put the project Log for the month of may -->
+
+|Serial No. |Task   |Date   |Orbitee 1  |Orbitee 2  |Remarks    |
+|-----------|-------|-------|-----------|-----------|-----------|
+|1.         |Learning Firbase and DialogFlow| June 5th - June | 10hrs | 8hrs |   Learning respective APIs|
+|2.         |Learning about packages and context switching | May 12th| 5hrs | 3hrs | -|
+|3. |Flutter and Firbase Integration| May 14th| 40hrs | - | -|
+|4. |Learning how to deal with entities and lifespan in dialogflow| May 14th| - | 10hrs | -|
+|5. |Learning About External Packages| May 14th| 5hrs | - | -|
+|6. |Integration of Music in to Flutter | May 14th| 20hrs | - |-|
+|7. |Creating UI and UX for login screens | May 14th| 15hrs | - | -|
+|8.| Studying Context directional flow in dialogFlow| May 17th| - | 10hrs | -|
+|9.|Actually Classifying different scenarios in dialogFlow| May 18th - May 24th| - | 20hrs|-|
+|10.| Integration of dialogFlow into App|25th May - 27th May| - | 15hrs | -| 
+|11.| Development of chatbot UI|25th May - 27th May| - | 25hrs | -| 
 # References To Icon Designers:
 1. <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
