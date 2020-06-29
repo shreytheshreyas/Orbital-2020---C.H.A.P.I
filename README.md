@@ -40,9 +40,8 @@ My partner and I aim to develop an application/website that will help people fac
 ## **1. Title Screen**
 ![TitleScreen](https://i.imgur.com/52gJKxJ.png)
 
-## **2. Create Account Screen and Problem Selection Screen**
+## **2. Create Account Screen**
 ![CreateAccount](https://i.imgur.com/ycMIX76.png)
-![ProblemClassifier](https://i.imgur.com/kK0atPy.png)
 
 ## **3. Login Screen**
 ![Login](https://i.imgur.com/pFbJX9L.png)
