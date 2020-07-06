@@ -13,8 +13,6 @@ My partner and I aim to develop an application/website that will help people fac
 # **User Stories**
 1. As a student who is facing trouble with exam stress i would like to able to communicate to someone to make my mind of studies.
 
-1. As a student struggling with video game addiction I would like to develop habits that can help me moderate my addiction.
-
 1. As a student who stuggles with anxiety issues i would like to have a set of contacts I can contact incase I have a panic attack.
 
 1. As a studnet facing addiction problems i would like to have something to track my progress.
@@ -102,16 +100,16 @@ My partner and I aim to develop an application/website that will help people fac
 |Serial No. |Task   |Date   |Orbitee 1  |Orbitee 2  |Remarks    |
 |-----------|-------|-------|-----------|-----------|-----------|
 |1.         |Learning Firbase and DialogFlow| June 5th - June | 10hrs | 8hrs |   Learning respective APIs|
-|2.         |Learning about packages and context switching | May 12th| 5hrs | 3hrs | -|
-|3. |Flutter and Firbase Integration| May 14th| 40hrs | - | -|
-|4. |Learning how to deal with entities and lifespan in dialogflow| May 14th| - | 10hrs | -|
-|5. |Learning About External Packages| May 14th| 5hrs | - | -|
-|6. |Integration of Music in to Flutter | May 14th| 20hrs | - |-|
-|7. |Creating UI and UX for login screens | May 14th| 15hrs | - | -|
-|8.| Studying Context directional flow in dialogFlow| May 17th| - | 10hrs | -|
-|9.|Actually Classifying different scenarios in dialogFlow| May 18th - May 24th| - | 20hrs|-|
-|10.| Integration of dialogFlow into App|25th May - 27th May| - | 15hrs | -| 
-|11.| Development of chatbot UI|25th May - 27th May| - | 25hrs | -| 
+|2.         |Learning about packages and context switching | June 10th - June 11th | 5hrs | 3hrs | -|
+|3. |Flutter and Firbase Integration| June 14th - June 17th| 40hrs | - | -|
+|4. |Learning how to deal with entities and lifespan in dialogflow|June 14th - June 15th | - | 10hrs | -|
+|5. |Learning About External Packages| June 16th | 5hrs | - | -|
+|6. |Integration of Music in to Flutter | June 15th - June 18th | 20hrs | - |-|
+|7. |Creating UI and UX for login screens | June 20th - June 22nd | 15hrs | - | -|
+|8.| Studying Context directional flow in dialogFlow| June 12th - June 17th| - | 10hrs | -|
+|9.|Actually Classifying different scenarios in dialogFlow| June 18th - June 24th| - | 20hrs|-|
+|10.| Integration of dialogFlow into App|25th June - 27th June| - | 15hrs | -| 
+|11.| Development of chatbot UI|27th June - 29th June| - | 25hrs | -| 
 # References To Icon Designers:
 1. <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
