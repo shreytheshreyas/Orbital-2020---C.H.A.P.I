@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561397887762",
+    "firebase_url": "https://third-trial-e8828.firebaseio.com",
+    "project_id": "third-trial-e8828",
+    "storage_bucket": "third-trial-e8828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561397887762:android:6f5d1395386172c00eb9cb",
+        "android_client_info": {
+          "package_name": "com.try.nagi_trial_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561397887762-o1th9kfnfah92urqfe9477btib0fj8ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrpAzpjoN85kQ9uSaUeacOcjk_2LTVs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561397887762-o1th9kfnfah92urqfe9477btib0fj8ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
