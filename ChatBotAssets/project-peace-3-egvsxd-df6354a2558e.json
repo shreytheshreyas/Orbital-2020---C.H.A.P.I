@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-peace-3-egvsxd",
+  "private_key_id": "df6354a2558e1d0a44ccabb0239a8044f9e06b42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC07zWbDbHw1ljh\nr94drnkhqpPqtRnay49cHRijDwz2E0xKCqXDjgx0U8lKIPX2Ct+f/im412HnvLIP\nOfZczZcXUBkTnUM2liBM0NpEY3FQpzsPSLcyuTFubzgE+d5R1W+vLjeYuYa+Tn26\nxthSJkgdvDbN3D3s4RF2vLY8yN0SDivpDg99sqrphh8SOTbMkK6YqtWcF9+NdqYo\nLbMh1s2DzbLW/NhiZ/GRaSgLBmcjhppJURXGuaomMQ6i6TTfPRzHj52VMdxf2vM5\nyYUYpVYVb5v6CV/U44I6Bz3nCkkk5WpM0Y/x3Okfoylncekk28GvYWf0GkQkbj1S\neZbJF52/AgMBAAECggEAAcvACfZ0VjIidrcCquPA8wsY5cL/azMLDLyDMpcjJ0wg\nvTlm1M6TpBHy1QgHuPX5q0JgEqQcpiqyz8DhB6HIxqP2Y8HzWVbbIjgOepBMHyNR\nzECKBPhem7yB31bFlKVcMu5wAdWRl1D7IX/4xLP5kkX8e0Wc3b2MKVQNMQRDYXr7\nQHb8tVf6Isgz0BjSBsvhWwEr3pZO9jt7x8c4tsmmPIe+3WdY/023CxuHh6GcVmiF\nOkUBzHaNaxZV2qf0R6uR9VuZ3C6XHZXhoWzSITRDOQI+lbJpl+s5Sm9iCEnOgsPP\nTIKSc5bRUgcc7npxpHCy0Y43E9m53sUyBqz28Tmq/QKBgQDiT0xwKDl8R94zZlOS\nANVpu9cGjxstWgvbtCGbkfKTCa52jk8Br76ONRRxTP8E+dq8s/nmHNVh86ZILEPu\nL9JLI5QDvyvv/8gyb2M4chs/r6p/VHFdDRSyscq4gCuILJT6p4VLhFOdEqF4c9Y8\n4LV6oroxSrHwVgwfFO4tmRnjnQKBgQDMq/ZKAGUel0pqqw64bVFYlcg/sv4N4WKF\neu75Dw9P2r53D1W5UcQ1lStWdSsC6vUC2xoo/DNuUPEentzKeSrRRn4r7RCg8Uq/\nfUjDGOf59KOfuEnHOZ0kRzu/L3Gf4lis6aDk7h58UhmEP5xpmy9siGjI1llJLpQt\no6w5sNVOCwKBgQCXDFJ6cX6c4uL974hL5N6MaeFE8XM0O+u6QmpECY+ccFPPsYAu\nIfzPscHpNXjo+1LxrDZZTlllvVf4yAK3EZgMqrx6G7jZwSD/+LSC0jY5tafYwKXB\nc5+i/WPO7U0g4JC3E+S12KZuKic33CjcDSdTqRUZHT/Sp7wDatbl/E/5SQKBgQCW\nGO5v6sY9nvoGLBiJjDIB4yaOAHhsOYQFG9ixcifqiiLwMaDOXXalTRYRO7AlXaX9\nSC1xLTOSjW2m5R5Kpn2OKEJTeHGfdhU5RWndGiDVoGF2urHwlwH1HwBj/yk29cnO\nVS+XdEGLLrJj2DqfAB3RXGBsGTY1gyFMLyIY1OQ5bQKBgQCeSAky9NE46BqjEiqi\nWJiB7k4DXpRQgfXGgyKMecP0gnHTC0HmVlUNo1oN35MiD1QM6At6y29LhG6m+yfn\nRUbuxzf3M60N9VaBHW3vpAJyHcm2/xnlll22hl2jjS8LEGLyfKZZ9w2mpaJnc7e5\nveRFb6ga3g/COswDIQtOy0dkUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-frohoi@project-peace-3-egvsxd.iam.gserviceaccount.com",
+  "client_id": "114315788625939319174",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-frohoi%40project-peace-3-egvsxd.iam.gserviceaccount.com"
+}
