@@ -53,8 +53,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/
-    - assets/project-peace-3-egvsxd-df6354a2558e.json   
+    - images/ 
+    - ChatBotAssets/project-peace-3-egvsxd-df6354a2558e.json
     - NagiMusicAssets/
     - Music/instrumental.mp3
     - Music/jungle.mp3

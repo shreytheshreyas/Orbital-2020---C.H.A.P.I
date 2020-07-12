@@ -83,7 +83,7 @@ void _submitQuery(String text) {
 void _dialogFlowResponse(query) async {
   _textController.clear();
   AuthGoogle authGoogle =
-  await AuthGoogle(fileJson: "assets/project-peace-3-egvsxd-df6354a2558e.json").build();
+  await AuthGoogle(fileJson: "ChatBotAssets/project-peace-3-egvsxd-df6354a2558e.json").build();
   Dialogflow dialogFlow =
   Dialogflow(authGoogle: authGoogle, language: Language.english);
   AIResponse response = await dialogFlow.detectIntent(query);
