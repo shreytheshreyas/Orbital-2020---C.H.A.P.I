@@ -88,7 +88,7 @@ class _JungleAudio extends State<JungleAudio> {
 
   Widget LocalAudio() {
     return _tab([
-      _btn('Play', () => audioCache.play('Music/jungle.mp3')),
+      _btn('Play', () => audioCache.play('music/jungle.mp3')),
       _btn('Pause', () => advancedPlayer.pause()),
       _btn('Stop', () => advancedPlayer.stop()),
       _btn('Back', () => [advancedPlayer.stop(), Navigator.pop(context), audioCache.clearCache()]),
