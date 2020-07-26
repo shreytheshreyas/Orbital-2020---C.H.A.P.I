@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import './instrumental_page.dart';
 import './jungle_path.dart';
 import './music_widgets.dart';

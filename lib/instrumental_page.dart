@@ -2,6 +2,7 @@ import 'package:audioplayers/audio_cache.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 
+
 typedef void OnError(Exception exception);
 
 class InstrumentalAudio extends StatefulWidget {
@@ -88,7 +89,7 @@ class _InstrumentalAudio extends State<InstrumentalAudio> {
 
   Widget LocalAudio() {
     return _tab([
-      _btn('Play', () => audioCache.play('Music/instrumental.mp3')),
+      _btn('Play', () => audioCache.play('music/instrumental.mp3')),
       _btn('Pause', () => advancedPlayer.pause()),
       _btn('Stop', () => advancedPlayer.stop()),
       _btn('Back', () => [advancedPlayer.stop(), Navigator.pop(context), audioCache.clearCache()]),
