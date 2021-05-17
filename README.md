@@ -51,8 +51,8 @@ My partner and I aim to develop an application/website that will help people fac
 ## **3. Login Screen**
 ![Login](https://i.imgur.com/pFbJX9L.png)
 
-## **4. Home Screen**
-![HomeScreen](https://i.imgur.com/jr4Is6E.png)
+<!--## **4. Home Screen**-->
+
 <!-- Need to design and put in images later -->
 
 <!--Depression Flaticon: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>-->
