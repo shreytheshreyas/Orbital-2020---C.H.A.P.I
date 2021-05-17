@@ -153,7 +153,7 @@ class FirstView extends StatelessWidget {
                   ),
                   SizedBox(height: _height * 0.02),
                   
-                  FadeAnimation(
+                  /*FadeAnimation(
                      1.0,
                      RaisedButton(
                       color: Colors.blue,
@@ -171,7 +171,7 @@ class FirstView extends StatelessWidget {
                       },
                       elevation: 10.0,
                     )
-                  ),
+                  ),*/
                 ],
               ),
             ),
